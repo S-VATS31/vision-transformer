@@ -1,0 +1,14 @@
+# Core Deep Learning Framework
+torch==2.7.1
+torchvision==0.22.1
+
+# Data Handling
+Pillow==11.2.1
+numpy==2.2.6
+
+# Utilities
+tqdm==4.67.1
+
+# Visualization and Logging
+matplotlib==3.10.3
+tensorboard==2.19.0
